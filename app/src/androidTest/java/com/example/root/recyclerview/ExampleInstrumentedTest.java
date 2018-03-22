@@ -1,4 +1,4 @@
-package com.example.root.cardview;
+package com.example.root.recyclerview;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

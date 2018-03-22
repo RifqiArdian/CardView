@@ -1,4 +1,4 @@
-package com.example.root.cardview;
+package com.example.root.recyclerview;
 
 /**
  * Created by root on 22/03/18.
